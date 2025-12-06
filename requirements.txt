@@ -1,0 +1,6 @@
+Flask
+qrcode[pil]
+Pillow
+Flask-Login
+Flask-WTF
+Werkzeug
